@@ -1,3 +1,13 @@
+## 如何安装
+
+不支持通过 VS Code 插件市场直接安装该插件，Cursor 允许手动安装 VS Code 插件（.vsix 格式），你可以通过以下步骤将该插件安装到 Cursor 中：
+
+1. 打开 Cursor
+2. 使用快捷键 Cmd+Shift+P（Mac）或 Ctrl+Shift+P（Windows），打开命令面板。
+3. 输入并选择：Extensions: Install from VSIX...
+4. 选择本项目下的 vscode-theme-1984-0.3.4.vsix 文件。
+5. 安装完成后，重启 Cursor 即可使用。
+
 ## 📺 Welcome to 1984 📺
 
 **_DISCLAIMER_**: This theme was not designed for long-term usage. I made this for fun. If you are looking for something specifically designed with eyesight in mind, you may want to try: [Hydra Syntax Theme](https://marketplace.visualstudio.com/items?itemName=juanmnl.vscode-theme-hydra) or [Untitled Theme](https://marketplace.visualstudio.com/items?itemName=juanmnl.vscode-theme-untitled)
